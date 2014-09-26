@@ -27,6 +27,6 @@ Gem::Specification.new do |spec|
   spec.add_dependency('websocket-eventmachine-client', '~> 0')
   spec.add_dependency('websocket-eventmachine-server', '~> 0')
 
-  spec.add_dependency('citrus-loader', '~> 0')
-  spec.add_dependency('citrus-logger', '~> 0')
+  spec.add_dependency('pomelo-citrus-loader', '~> 0')
+  spec.add_dependency('pomelo-citrus-logger', '~> 0')
 end
