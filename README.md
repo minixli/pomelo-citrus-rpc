@@ -12,7 +12,7 @@ Recently, I would focus on my daily work, so I open source this project and hope
 
 ## Todo
 
-This gem is the first gem I have done in the whole work, it needs to be improved but it already has the ablity to provide the basic infrastructure to other gems, other gems exist in my own repository.
+This gem is the very first gem I have done in my whole work, it needs to be improved but it already has the ablity to provide the basic infrastructure to other gems, other gems exist in my own repository.
 
 ## Links
 
