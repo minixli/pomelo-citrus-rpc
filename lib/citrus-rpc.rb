@@ -8,8 +8,8 @@ require 'eventmachine'
 require 'json'
 require 'ostruct'
 
-require 'citrus-loader'
-require 'citrus-logger'
+require 'pomelo-citrus-loader'
+require 'pomelo-citrus-logger'
 
 require 'citrus-rpc/util/utils'
 require 'citrus-rpc/rpc-client/client'
